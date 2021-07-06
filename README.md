@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Samuel-jacobs/fylo-dark-theme](https://github.com/Samuel-jacobs/fylo-dark-theme)
+- Live Site URL: [https://samuel-jacobs.github.io/fylo-dark-theme/](https://samuel-jacobs.github.io/fylo-dark-theme/)
 
 ## My process
 
