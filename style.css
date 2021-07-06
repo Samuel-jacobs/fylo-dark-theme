@@ -402,6 +402,14 @@ a.footer-icon {
 		
 		flex: auto;
 	}
+	#flexbox1 {
+		display: flex;
+		column-gap: 15px;
+		
+	}
+	#flexbox1 > div {
+		flex: auto;
+	}
 	#contact {
 		margin-left: 200px;
 		margin-right: 200px;
