@@ -62,8 +62,8 @@ I plan to keep practicing flexbox and grid to get more conversant with it
 
 ### Useful resources
 
-- [ resource 1](https://www.w3schools.com) - This helped me when i got stuck with a syntax, it also helped me understan flexbox and grid better.
-- [Example resource 2](https://developer.mozilla.org) - I found some articles here that also helped me during the course of working on the project. 
+- [www.w3schools.com](https://www.w3schools.com) - This helped me when i got stuck with a syntax, it also helped me understan flexbox and grid better.
+- [developer.mozilla.org](https://developer.mozilla.org) - I found some articles here that also helped me during the course of working on the project. 
 
 ## Author
 
